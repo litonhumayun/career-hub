@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Job from "../Job/Job";
+import { Helmet } from "react-helmet-async";
 
 const FeaturedJobs = () => {
   const [jobs, setJobs] = useState([]);
@@ -14,6 +15,9 @@ const FeaturedJobs = () => {
 
   return (
     <>
+      <Helmet>
+        <title>Featued Jobs</title>
+      </Helmet>
       <div className="text-center">
         <h1 className="text-5xl bold py-5">Featured Jobs</h1>
         <p>

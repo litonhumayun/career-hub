@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Category from "../Category/Category";
+import { Helmet } from "react-helmet-async";
 
 const CategoryList = () => {
   const [categories, setCategories] = useState([]);
@@ -11,6 +12,9 @@ const CategoryList = () => {
   }, []);
   return (
     <>
+      <Helmet>
+        <title>Category List</title>
+      </Helmet>
       <div className="text-center">
         <h2 className="text-5xl bold py-5">Job Category List</h2>
         <p>

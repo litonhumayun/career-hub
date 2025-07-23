@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useLoaderData } from "react-router";
 import { getStoredJobApplications } from "../../utility/localStorage";
+import { Helmet } from "react-helmet-async";
 
 const AppliedJobs = () => {
   const [jobsApplied, setJobsApplied] = useState([]);
@@ -33,6 +34,9 @@ const AppliedJobs = () => {
   }, [jobs]);
   return (
     <section className="p-4 lg:p-8 dark:bg-gray-100 dark:text-gray-800">
+      <Helmet>
+        <title>Applied Jobs</title>
+      </Helmet>
       <h2>Jobs Applied: {jobsApplied.length}</h2>
       <details className="dropdown">
         <summary className="btn m-1">open or close</summary>
