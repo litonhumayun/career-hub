@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Designing and maintaining high-performance databases to ensure fast, reliable, and secure data storage and access.",
+    "job_responsibility": "Work with DevOps and software teams to ensure database performance and scalability.",
+    "educational_requirements": "Bachelor's in Computer Science or related field.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 01",
+      "email": "dbengineer@google.com",
+      "address": "Dhanmondi, Dhaka"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/QFf1h0DT/netflix.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "90k-120k",
+    "job_description": "Lead design projects with a focus on improving customer experience across all Netflix platforms.",
+    "job_responsibility": "Conduct UX research and translate insights into prototypes.",
+    "educational_requirements": "Bachelor’s degree in Design or HCI.",
+    "experiences": "5+ Years experience preferred.",
+    "contact_information": {
+      "phone": "01750-00 00 02",
+      "email": "design@netflix.com",
+      "address": "Banani, Dhaka"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/d9TLxth/tesla.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-130k",
+    "job_description": "Develop scalable software solutions for Tesla’s internal systems.",
+    "job_responsibility": "Work closely with QA and hardware teams to integrate solutions.",
+    "educational_requirements": "Bachelor’s in Software Engineering.",
+    "experiences": "3+ years working with Node.js and React.",
+    "contact_information": {
+      "phone": "01750-00 00 03",
+      "email": "software@tesla.com",
+      "address": "Uttara, Dhaka"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/jv3jYyYd/airbnb.png",
+    "job_title": "Frontend Developer",
+    "company_name": "Meta Platforms",
+    "remote_or_onsite": "Remote",
+    "location": "Chittagong, Bangladesh",
+    "job_type": "Part Time",
+    "salary": "80k-100k",
+    "job_description": "Build interactive UIs for social media and collaboration tools.",
+    "job_responsibility": "Collaborate with backend teams to integrate APIs into React interfaces.",
+    "educational_requirements": "Diploma or Bachelor’s in Computer Science.",
+    "experiences": "1-2 years in frontend development.",
+    "contact_information": {
+      "phone": "01750-00 00 04",
+      "email": "frontend@meta.com",
+      "address": "Agrabad, Chittagong"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/QFf1h0DT/netflix.png",
+    "job_title": "Cloud Infrastructure Engineer",
+    "company_name": "Amazon AWS",
+    "remote_or_onsite": "Remote",
+    "location": "Sylhet, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "110k-160k",
+    "job_description": "Maintain and deploy AWS infrastructure supporting global apps.",
+    "job_responsibility": "Design scalable architecture and ensure uptime.",
+    "educational_requirements": "BSc in IT/Networking or equivalent.",
+    "experiences": "4+ years in AWS infrastructure.",
+    "contact_information": {
+      "phone": "01750-00 00 05",
+      "email": "cloud@amazon.com",
+      "address": "Sylhet Sadar"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/QFf1h0DT/netflix.png",
+    "job_title": "AI Researcher",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Onsite",
+    "location": "Rajshahi, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "150k-200k",
+    "job_description": "Conduct AI research and implement ML algorithms into enterprise products.",
+    "job_responsibility": "Collaborate with global AI teams and publish research papers.",
+    "educational_requirements": "Masters or PhD in AI/ML.",
+    "experiences": "3+ years in ML research and TensorFlow/PyTorch.",
+    "contact_information": {
+      "phone": "01750-00 00 06",
+      "email": "ai@microsoft.com",
+      "address": "Rajshahi University Campus"
+    }
+  },
+  {
+    "id": 7,
+    "logo": "https://i.ibb.co/QFf1h0DT/netflix.png",
+    "job_title": "Content Moderator",
+    "company_name": "Facebook",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Part Time",
+    "salary": "60k-80k",
+    "job_description": "Review and moderate content on the Facebook platform to enforce guidelines.",
+    "job_responsibility": "Flag inappropriate content and escalate sensitive issues.",
+    "educational_requirements": "Minimum HSC passed.",
+    "experiences": "No prior experience required.",
+    "contact_information": {
+      "phone": "01750-00 00 07",
+      "email": "moderation@facebook.com",
+      "address": "Mirpur, Dhaka"
+    }
+  },
+  {
+    "id": 8,
+    "logo": "https://i.ibb.co/QFf1h0DT/netflix.png",
+    "job_title": "Backend Developer",
+    "company_name": "Uber Technologies",
+    "remote_or_onsite": "Remote",
+    "location": "Khulna, Bangladesh",
+    "job_type": "Contract",
+    "salary": "90k-130k",
+    "job_description": "Develop backend services for real-time ride tracking and dispatch.",
+    "job_responsibility": "Design REST APIs and ensure high availability.",
+    "educational_requirements": "BSc in Computer Engineering.",
+    "experiences": "2 years minimum with Node.js and PostgreSQL.",
+    "contact_information": {
+      "phone": "01750-00 00 08",
+      "email": "backend@uber.com",
+      "address": "Boyra, Khulna"
+    }
+  },
+  {
+    "id": 9,
+    "logo": "https://i.ibb.co/QFf1h0DT/netflix.png",
+    "job_title": "Graphic Designer",
+    "company_name": "Adobe Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Freelance",
+    "salary": "50k-100k",
+    "job_description": "Create digital assets for marketing campaigns using Adobe Suite.",
+    "job_responsibility": "Work with creative team and deliver on tight timelines.",
+    "educational_requirements": "Bachelor’s in Fine Arts or Design.",
+    "experiences": "2+ years using Illustrator and Photoshop.",
+    "contact_information": {
+      "phone": "01750-00 00 09",
+      "email": "design@adobe.com",
+      "address": "Dhanmondi, Dhaka"
+    }
+  },
+  {
+    "id": 10,
+    "logo": "https://i.ibb.co/QFf1h0DT/netflix.png",
+    "job_title": "iOS Developer",
+    "company_name": "Apple Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "130k-180k",
+    "job_description": "Develop and maintain iOS applications for Apple services in South Asia.",
+    "job_responsibility": "Implement UI with SwiftUI and manage App Store deployments.",
+    "educational_requirements": "Bachelor’s in Software Engineering or equivalent.",
+    "experiences": "3+ years with Swift and Xcode.",
+    "contact_information": {
+      "phone": "01750-00 00 10",
+      "email": "ios@apple.com",
+      "address": "Gulshan, Dhaka"
+    }
+  }
+]
